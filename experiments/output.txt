@@ -1,0 +1,7 @@
+| Question Number | Question                                                                                                        | Correct Answer                           |
+|-----------------|--------------------------------------------------------------------------------------------------|------------------------------------------|
+| 1               | Who coined the term 'machine learning' in 1959?                                          | Arthur Samuel                          |
+| 2               | What was the earliest machine learning program introduced by Arthur Samuel used for?   | Checkers game                          |
+| 3               | Which book published in 1949 introduced a theoretical neural structure influencing ML? | The Organization of Behavior     |
+| 4               | Name of the experimental 'learning machine' developed by Raytheon Company in 1960s?  | Cybertron                               |
+| 5               | How does Tom M. Mitchell define a computer program that learns from experience in ML?   | Improves performance based on experience |
